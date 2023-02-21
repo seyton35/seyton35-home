@@ -1,0 +1,10 @@
+.paragraph {
+    padding: 10px 20px 10px 20px;
+}
+
+.paragraph__txt {
+    font-size: 17px;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: normal;
+}

@@ -1,0 +1,11 @@
+.link {
+    font-size: 17px;
+    font-weight: normal;
+    color: darkgray;
+    text-decoration: none;
+    padding-right: 10px;
+}
+
+.link_active{
+    color: white;
+}

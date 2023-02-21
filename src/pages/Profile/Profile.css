@@ -1,0 +1,16 @@
+.profile-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.profile-box__item {
+    max-width: 50%;
+}
+
+.profile-box__picture {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+
+.profile-box__txt {}

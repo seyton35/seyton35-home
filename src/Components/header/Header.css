@@ -1,0 +1,13 @@
+.my-navbar{
+    display: flex;
+    width: 60%;
+    padding-right: 10px;
+    align-items: center;
+}
+ 
+.brand{
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding-right: 10px;
+}
